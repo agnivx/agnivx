@@ -21,7 +21,7 @@ Interested in Threat intel, Crypto DFIR, and post-quantum security.
 
 Microsoft Cybersecurity Analyst Certification  
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Atlassian-logo.svg/2000px-Atlassian-logo.svg.png](https://www.pngfind.com/pngs/m/432-4329153_atlassian-logo-triangle-hd-png-download.png)" width="24"/>
+<img src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.jpg" width="24"/>
 
 Beginner's Guide to Agile in Jira  
 
