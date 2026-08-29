@@ -2,7 +2,7 @@
 
 ## I am Agniva
 
-#### I'm a Pre-final year CSE undergrad specializing in Cybersecurity & Forensics.
+#### I'm a Final year CSE undergrad specializing in Cybersecurity & Forensics.
 
 Focused on blue team security, compliance, and endpoint protection.
 
