@@ -62,6 +62,3 @@ Introduction to Cybersecurity
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/agnivx)
 
-## Programming Languages
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnivx&layout=compact&theme=tokyonight"/>
