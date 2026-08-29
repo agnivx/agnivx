@@ -33,7 +33,7 @@ Deep Web & Cybersecurity
 
 Google Cybersecurity Professional Certification  
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cisco_Networking_Academy.svg/2560px-Cisco_Networking_Academy.svg.png](https://icon2.cleanpng.com/20180823/lgp/kisspng-logo-cisco-systems-brand-stratacom-font--5b7f5f6995d347.3741271315350741536137.jpg)" width="24"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Gf8cbHJMQXMB52HgWeZOgfR-V9yEdqI9kPKcaE8G6g&s=10" width="24"/>
 
 Introduction to Cybersecurity
 <br>
