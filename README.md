@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there 👋, I am Agniva Jana Bhattacharya
+# Hey there 👋, I am Agniva
 
-### Cybersecurity Engineer | GRC Analyst - IT[cite: 1]
+### Cybersecurity Engineer | GRC Analyst - IT
 
 <br>
 
@@ -22,10 +22,10 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 I am a final-year B.Tech CSE undergraduate specializing in Cybersecurity and Forensics[cite: 1].
-* 🛡️ I combine practical experience in IT Security Operations and GRC with a background in software vulnerability research[cite: 1].
-* ⚙️ I am proficient at deploying EDR solutions, executing regular vulnerability assessments, and streamlining complex compliance workflows across multiple client environments[cite: 1].
-* 🧠 My approach is backed by a strong technical foundation in Python, network security, and applied cryptography[cite: 1].
+* 🎓 I am a final-year B.Tech CSE undergraduate specializing in Cybersecurity and Forensics.
+* 🛡️ I combine practical experience in IT Security Operations and GRC with a background in software vulnerability research.
+* ⚙️ I am proficient at deploying EDR solutions, executing regular vulnerability assessments, and streamlining complex compliance workflows across multiple client environments.
+* 🧠 My approach is backed by a strong technical foundation in Python, network security, and applied cryptography.
 * 🔐 Skilled in Bitcoin cryptography, smart contract auditing, and blockchain forensics.
 * 🔍 Interested in Threat intel, Crypto DFIR, and post-quantum security.
 
