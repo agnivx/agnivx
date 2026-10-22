@@ -57,6 +57,40 @@
 
 <br>
 
+## 🛡️ Security Tools & Platforms
+
+**Endpoint Protection, Threat Detection & Management:**
+[![SentinelOne](https://img.shields.io/badge/SentinelOne-7E3F98?style=flat-square)](https://www.sentinelone.com/)
+[![MS Defender](https://img.shields.io/badge/MS%20Defender-00A4EF?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
+[![Huntress](https://img.shields.io/badge/Huntress-FF5A00?style=flat-square)](https://www.huntress.com/)
+[![ThreatLocker](https://img.shields.io/badge/ThreatLocker-004B87?style=flat-square)](https://www.threatlocker.com/)
+[![Trend Micro](https://img.shields.io/badge/Trend%20Micro-D71920?style=flat-square)](https://www.trendmicro.com/)
+[![SEQRITE](https://img.shields.io/badge/SEQRITE-EC1C24?style=flat-square)](https://www.seqrite.com/)
+
+**Network, Email & Web Security:**
+[![IronScales](https://img.shields.io/badge/IronScales-0052CC?style=flat-square)](https://ironscales.com/)
+[![DNSFilter](https://img.shields.io/badge/DNSFilter-00B2E2?style=flat-square)](https://www.dnsfilter.com/)
+[![ConcealBrowse](https://img.shields.io/badge/ConcealBrowse-000000?style=flat-square)](https://conceal.io/)
+
+**Vulnerability Assessment & Penetration Testing:**
+[![Nmap](https://img.shields.io/badge/Nmap-2C4B79?style=flat-square)](https://nmap.org/)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-4078C0?style=flat-square)](https://www.openvas.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)](https://portswigger.net/burp)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![SQLmap](https://img.shields.io/badge/SQLmap-222222?style=flat-square)](https://sqlmap.org/)
+
+**Fuzzing & Password Recovery:**
+[![AFL++](https://img.shields.io/badge/AFL++-000000?style=flat-square)](https://aflplus.plus/)
+[![Hashcat](https://img.shields.io/badge/Hashcat-2C2C2C?style=flat-square)](https://hashcat.net/hashcat/)
+[![John The Ripper](https://img.shields.io/badge/John_The_Ripper-FF0000?style=flat-square)](https://www.openwall.com/john/)
+
+**IT Management, GRC & Continuity:**
+[![Cynomi](https://img.shields.io/badge/Cynomi-000000?style=flat-square)](https://www.cynomi.com/)
+[![NinjaOne RMM](https://img.shields.io/badge/NinjaOne%20RMM-172154?style=flat-square)](https://www.ninjaone.com/)
+[![MSP360 Backup](https://img.shields.io/badge/MSP360%20Backup-FF6600?style=flat-square)](https://www.msp360.com/)
+
+<br>
+
 ## 📜 Certifications
 
 - <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="20"/> **Microsoft Cybersecurity Analyst Certification**
