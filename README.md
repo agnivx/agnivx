@@ -99,6 +99,20 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Ec_Council_Logo.png" width="20"/> **Deep Web & Cybersecurity** (EC Council)
 
 <br>
+
+## 📊 Top Languages
+
+<p align="center">
+  <a href="https://github.com/agnivx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnivx&layout=compact&theme=tokyonight&hide_border=true" alt="Agniva's Top Languages" />
+  </a>
+</p>
+
+<br>
+
+<br>
 <p align="center">
   <i>"I'm currently learning all about <a href="https://bitcoin.org/en/bitcoin-paper">Bitcoin</a> Security"</i>
 </p>
+
+<br>
